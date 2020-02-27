@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a35505fc09cfc24980627a2c8110396, type: 3}
+  m_Name: PaladinsRankedConfig
+  m_EditorClassIdentifier: 
+  gameName: Paladins - Ranked
+  defaultTeam1Name: Blue Team
+  defaultTeam2Name: Red Team
+  pickBanOrder:
+  - isTeam1: 1
+    isBan: 1
+    canBeHovered: 0
+    iconPosition: {fileID: 11400000, guid: df0c71d6c9e227d4ba2074dc3360027c, type: 2}
+  - isTeam1: 0
+    isBan: 1
+    canBeHovered: 0
+    iconPosition: {fileID: 11400000, guid: ff8d7a9dbe3056e48a1516478f5c1930, type: 2}
+  - isTeam1: 1
+    isBan: 1
+    canBeHovered: 0
+    iconPosition: {fileID: 11400000, guid: 256ef4c46e00bcc4ebb583ef24c0e01a, type: 2}
+  - isTeam1: 0
+    isBan: 1
+    canBeHovered: 0
+    iconPosition: {fileID: 11400000, guid: 017f994393f82bc44b0cc0987dfdad63, type: 2}
+  - isTeam1: 1
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: cda670472d7f80045825033f2c89ac69, type: 2}
+  - isTeam1: 0
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: 5e8f0b9082c81ba4c9342b2755a33610, type: 2}
+  - isTeam1: 0
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: 8cbaef1809a6333488530027017ee978, type: 2}
+  - isTeam1: 1
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: 43832b2d4aae05f409befa908eae7225, type: 2}
+  - isTeam1: 1
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: 971c91aa8d4b34c4aaa9270ec4116881, type: 2}
+  - isTeam1: 0
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: 82e50bf6d70da75468cf7945b8d5cb13, type: 2}
+  - isTeam1: 0
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: 03fb61105ab788642bf85ed3f958fb14, type: 2}
+  - isTeam1: 1
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: 99e201c5f0eeed74595da78e32fb7747, type: 2}
+  - isTeam1: 1
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: 57da51ab838a10c428fab2752322de3c, type: 2}
+  - isTeam1: 0
+    isBan: 0
+    canBeHovered: 1
+    iconPosition: {fileID: 11400000, guid: fbbb350724751234b87049c6268bf313, type: 2}
+  playerIconsForGame:
+  - name: Atlas
+    icon: {fileID: 2800000, guid: 5ba05629f9be5af48afbe5f9ba6aa331, type: 3}
+  - name: Androxus
+    icon: {fileID: 2800000, guid: 575b8b966b35eda48879cfe152312d4d, type: 3}
+  - name: Ash
+    icon: {fileID: 2800000, guid: ad7beef36c07855469a4d9163db08fed, type: 3}
+  - name: Barik
+    icon: {fileID: 2800000, guid: 45ff8176c18816340baed00a1331f6f6, type: 3}
+  - name: Bomb King
+    icon: {fileID: 2800000, guid: 966f000adbd8f504b98708bd7d2ab6a2, type: 3}
+  - name: Buck
+    icon: {fileID: 2800000, guid: 19be2fec68ec00b448ba98b634d057ce, type: 3}
+  - name: Cassie
+    icon: {fileID: 2800000, guid: 3871a31993c1b28408f6477ed5f8c372, type: 3}
+  - name: Dredge
+    icon: {fileID: 2800000, guid: f4aed415e021d2043ae4e90630f4dd9d, type: 3}
+  - name: Drogoz
+    icon: {fileID: 2800000, guid: 7049d3dc176b6384bb8cbc7f863fa1f2, type: 3}
+  - name: Evie
+    icon: {fileID: 2800000, guid: e310924bdc1e8cb479afe3cb5efd73f8, type: 3}
+  - name: Fernando
+    icon: {fileID: 2800000, guid: 3da5352f561c52942a17bf2ffde58261, type: 3}
+  - name: Furia
+    icon: {fileID: 2800000, guid: e5f344dc2563cad4ba2e78028c783bd6, type: 3}
+  - name: Grohk
+    icon: {fileID: 2800000, guid: 9adabf83f68cfe54e98f2f8ee69abb19, type: 3}
+  - name: Grover
+    icon: {fileID: 2800000, guid: 8a998af16e801b348931c201ad996425, type: 3}
+  - name: Inara
+    icon: {fileID: 2800000, guid: a4467c1dee6378444af9684bdd636c03, type: 3}
+  - name: Jenos
+    icon: {fileID: 2800000, guid: 64337613c0202ba45b6f997339701fff, type: 3}
+  - name: Khan
+    icon: {fileID: 2800000, guid: eaf45615b097ebc42a95f40ea39ede49, type: 3}
+  - name: Kinessa
+    icon: {fileID: 2800000, guid: 93363af87327b8c45ae8515d91082cfe, type: 3}
+  - name: Koga
+    icon: {fileID: 2800000, guid: 067ada8fb6ed49d41bf74b4a4ce8b3db, type: 3}
+  - name: Lex
+    icon: {fileID: 2800000, guid: 44159a8b8bfd41249a7b2ae3c51da3bf, type: 3}
+  - name: Lian
+    icon: {fileID: 2800000, guid: cf1e7a6b11550a9428edca2e6f980f73, type: 3}
+  - name: Maeve
+    icon: {fileID: 2800000, guid: 93f3c66c42829924c8247f963ca5780e, type: 3}
+  - name: Makoa
+    icon: {fileID: 2800000, guid: ebd6e1ccedaa82c449fd29c321d1513a, type: 3}
+  - name: Pip
+    icon: {fileID: 2800000, guid: 047b8ccf44a5d9e4598a6602feb2ab1b, type: 3}
+  - name: Raum
+    icon: {fileID: 2800000, guid: 5dc98bd0f2d828243a3f994bb5e24b1e, type: 3}
+  - name: Ruckus
+    icon: {fileID: 2800000, guid: 65a82c2d7ea975f4787f46f865ebdb21, type: 3}
+  - name: Seris
+    icon: {fileID: 2800000, guid: 5a08e309dd278c14e99558c6f2162f21, type: 3}
+  - name: Sha Lin
+    icon: {fileID: 2800000, guid: 997687c6bcf28004492916e85daaa38f, type: 3}
+  - name: Skye
+    icon: {fileID: 2800000, guid: 4373a99916602734484bb94bb32bf7dd, type: 3}
+  - name: Strix
+    icon: {fileID: 2800000, guid: 08ee8974b6d1b244f8ae588d3105fc98, type: 3}
+  - name: Talus
+    icon: {fileID: 2800000, guid: b18a803e0d50e4b42b1978ffcd112c25, type: 3}
+  - name: Terminus
+    icon: {fileID: 2800000, guid: ef213a7c96796a34da41e4d841185c12, type: 3}
+  - name: Torvald
+    icon: {fileID: 2800000, guid: 37f5d3fd2f0e09c46b57489d2a62b134, type: 3}
+  - name: Tyra
+    icon: {fileID: 2800000, guid: fca8581a252fad74eacd6e971e9d4a8c, type: 3}
+  - name: Viktor
+    icon: {fileID: 2800000, guid: 2bd15ee0fd27f5a44ae53b2dbbfe5bef, type: 3}
+  - name: Vivian
+    icon: {fileID: 2800000, guid: 02dd824d2abad0b42b55c423d1e79dbf, type: 3}
+  - name: Willo
+    icon: {fileID: 2800000, guid: 6c209dbc74c4b9242a4c8845803c41f5, type: 3}
+  - name: Ying
+    icon: {fileID: 2800000, guid: 40ddf16252393364c83f559123f9696b, type: 3}
+  - name: Zhin
+    icon: {fileID: 2800000, guid: 93c71d683eccca14093ce5f559092ace, type: 3}
+  - name: Imani
+    icon: {fileID: 2800000, guid: 08d9d595c80c5aa43a09e45815fa3fe7, type: 3}
+  - name: Io
+    icon: {fileID: 2800000, guid: 619610b3ac6a6554db02136cf2a7e863, type: 3}
+  - name: Mal Damba
+    icon: {fileID: 2800000, guid: 6c91e6a715d808e42b4175ddb1639a25, type: 3}
+  - name: Moji
+    icon: {fileID: 2800000, guid: a8e6546c223b644409f5262bcf715786, type: 3}
+  - name: Default
+    icon: {fileID: 2800000, guid: 53aaf4c681aafe34281952ccb6a6e4d5, type: 3}

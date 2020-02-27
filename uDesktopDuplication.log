@@ -1,0 +1,28 @@
+[uDD::Log][2020-02-27 20:35:30] Start
+[uDD::Log][2020-02-27 20:35:30] OS Version    : 10.0
+[uDD::Log][2020-02-27 20:35:30] Build Number  : 18363
+[uDD::Log][2020-02-27 20:35:30] Service Pack  : 
+[uDD::Log][2020-02-27 20:35:30] Graphics Card [0] : AMD Radeon RX 5700 XT
+[uDD::Log][2020-02-27 20:35:30]   > Monitor[0] : \\.\DISPLAY1
+[uDD::Log][2020-02-27 20:35:30]   > Monitor[1] : \\.\DISPLAY2
+[uDD::Log][2020-02-27 20:35:30]   > Monitor[2] : \\.\DISPLAY3
+[uDD::Log][2020-02-27 20:35:30] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-02-27 20:35:30] Monitor::Initialized() =>
+[uDD::Log][2020-02-27 20:35:30]     ID    : 0
+[uDD::Log][2020-02-27 20:35:30]     Size  : (2560, 1440)
+[uDD::Log][2020-02-27 20:35:30]     DPI   : (108, 108)
+[uDD::Log][2020-02-27 20:35:30]     Rot   : Landscape
+[uDD::Log][2020-02-27 20:35:30] Duplicator::Initialize() => OK.
+[uDD::Log][2020-02-27 20:35:30] Monitor::Initialized() =>
+[uDD::Log][2020-02-27 20:35:30]     ID    : 1
+[uDD::Log][2020-02-27 20:35:30]     Size  : (1080, 1920)
+[uDD::Log][2020-02-27 20:35:30]     DPI   : (92, 92)
+[uDD::Log][2020-02-27 20:35:30]     Rot   : Portrait (flipped)
+[uDD::Log][2020-02-27 20:35:30] Duplicator::Initialize() => OK.
+[uDD::Log][2020-02-27 20:35:30] Monitor::Initialized() =>
+[uDD::Log][2020-02-27 20:35:30]     ID    : 2
+[uDD::Log][2020-02-27 20:35:30]     Size  : (1080, 2560)
+[uDD::Log][2020-02-27 20:35:30]     DPI   : (96, 96)
+[uDD::Log][2020-02-27 20:35:30]     Rot   : Portrait
+[uDD::Log][2020-02-27 20:35:30] Duplicator::Initialize() => OK.
+[uDD::Log][2020-02-27 20:35:33] Stop
